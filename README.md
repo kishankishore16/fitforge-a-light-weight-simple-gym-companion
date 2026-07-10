@@ -73,7 +73,15 @@ The architecture is explicitly designed for speed, operating exclusively on serv
 
 ## 📱 Screenshots & UI
 
-*(Screenshots can be added here to showcase the Dashboard, Tracker, and Muscle Map components)*
+<div align="center">
+  <img src="public/screenshots/dashboard.png" width="48%" alt="Dashboard view" />
+  <img src="public/screenshots/exercises.png" width="48%" alt="Exercise Library" />
+</div>
+<br />
+<div align="center">
+  <img src="public/screenshots/diet.png" width="48%" alt="Diet Plans" />
+  <img src="public/screenshots/tracker.png" width="48%" alt="Progress Tracker" />
+</div>
 
 ---
 *Built by Kishan Kishore*
